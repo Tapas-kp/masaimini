@@ -7,4 +7,4 @@ DOM manipulation
 localStorage
 Debounce and Throttle functions
 
-Deploy link:- masaimini-4azh-a7sudxmob-tapas-kumar-palais-projects.vercel.app
+Deploy link:- https://masaimini-4azh.vercel.app/
