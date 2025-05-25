@@ -1,4 +1,4 @@
-// app.js
+
 
 // Utility: Debounce
 function debounce(func, delay) {
